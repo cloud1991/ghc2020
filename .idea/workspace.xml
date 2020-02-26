@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc38877c-2b65-4608-be43-8f25bc085a45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4hz1HnFS0ga5KSHCfcDTXb4Pp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/input" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\simone.velona\Documents\Workspace\GHC\GHC_Test\input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.learchitravi.Main" />
+      <module name="GHC_Test" />
+      <option name="PROGRAM_PARAMETERS" value="./input/f.txt" />
+      <option name="VM_PARAMETERS" value="-Xms1G -Xmx2G" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc38877c-2b65-4608-be43-8f25bc085a45" name="Default Changelist" comment="" />
+      <created>1582208032150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582208032150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582233940358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582233940358" />
+    <state x="710" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582209669853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582209669853" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1582226440107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582226440107" />
+    <state x="715" y="224" key="#xdebugger.evaluate" timestamp="1582233752817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582233752817" />
+    <state width="1877" height="498" key="GridCell.Tab.0.bottom" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.0.center" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.0.left" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.0.right" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.1.bottom" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.1.center" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.1.left" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state width="1877" height="498" key="GridCell.Tab.1.right" timestamp="1582274193389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="498" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582274193389" />
+    <state x="536" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582228687513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1582228687513" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learchitravi/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learchitravi/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="numeroDiLibriDaManadare &lt; 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/learchitravi/Main.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="inputs.getLibrerie().get(idLibsChosen.get(i)).getIdLibreria() == 8265" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/com/learchitravi/Main.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/learchitravi/Main.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
